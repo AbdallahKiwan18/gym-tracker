@@ -12,13 +12,6 @@ A comprehensive, offline-first Flutter application designed to help you track yo
 - **💾 Local Storage**: Entirely offline! Uses a local SQLite database for instant access and data persistence.
 - **🚀 State Management**: Architected cleanly using `flutter_bloc` for robust state management.
 
-## 📱 Screenshots
-
-*(يمكنك إضافة صور التطبيق هنا برفعها مباشرة في GitHub)*
-
-| Home Screen | Exercise Library | Logging Workout | Progress Chart |
-|:---:|:---:|:---:|:---:|
-| <kbd><img src="https://via.placeholder.com/200x400.png?text=Home" width="200"/></kbd> | <kbd><img src="https://via.placeholder.com/200x400.png?text=Library" width="200"/></kbd> | <kbd><img src="https://via.placeholder.com/200x400.png?text=Workout" width="200"/></kbd> | <kbd><img src="https://via.placeholder.com/200x400.png?text=Progress" width="200"/></kbd> |
 
 ## 🛠️ Technology Stack
 
@@ -61,4 +54,4 @@ This repository includes a GitHub Action to automatically build an unsigned `.ip
 4. Sideload it to your iOS device using tools like **Scarlet**, **AltStore**, or **Sideloadly**.
 
 ---
-*Built with ❤️ for fitness enthusiasts.*
+*Built with Kiwan's touch*
